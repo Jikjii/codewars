@@ -8,7 +8,6 @@
 
 ###### Creating this repository in order to keep track of questions/solutions and inspire others to build their algorithm skills along side me !
 
-[![HitCount](http://hits.dwyl.io/Jikjii/codewars.svg)](http://hits.dwyl.io/Jikjii/codewars)
 ![GitHub top language](https://img.shields.io/github/languages/top/Jikjii/codewars)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jikjii/codewars)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jikjii/codewars)
